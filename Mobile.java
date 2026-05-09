@@ -1,10 +1,3 @@
-/**
- * Mobile.java
- * Subclass of Gadget representing a mobile phone.
- * Student: Md Mirazul Islam Rahat
- * Student ID: 221LM2590025
- */
-
 public class Mobile extends Gadget {
     private int callingCredit;
 
