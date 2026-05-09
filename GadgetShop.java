@@ -1,10 +1,3 @@
-/**
- * GadgetShop.java
- * GUI class for the GadgetShop system.
- * Student: Md Mirazul Islam Rahat
- * Student ID: 221LM2590025
- */
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
