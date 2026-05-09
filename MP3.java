@@ -1,10 +1,3 @@
-/**
- * MP3.java
- * Subclass of Gadget representing an MP3 player.
- * Student: Md Mirazul Islam Rahat
- * Student ID: 221LM2590025
- */
-
 public class MP3 extends Gadget {
     private int availableMemory;
 
