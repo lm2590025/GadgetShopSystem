@@ -1,10 +1,3 @@
-/**
- * Gadget.java
- * Base class for all gadgets in the GadgetShop system.
- * Student: Md Mirazul Islam Rahat
- * Student ID: 221LM2590025
- */
-
 public class Gadget {
     private String model;
     private double price;
